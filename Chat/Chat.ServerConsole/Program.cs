@@ -10,6 +10,7 @@ namespace Chat.ServerConsole
     {
         static void Main(string[] args)
         {
+            Console.Write("Test");
         }
     }
 }

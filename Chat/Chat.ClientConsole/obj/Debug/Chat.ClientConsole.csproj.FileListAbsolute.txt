@@ -4,3 +4,9 @@ C:\Users\User\Source\Repos\Chat\Chat\Chat.ClientConsole\bin\Debug\Chat.ClientCon
 C:\Users\User\Source\Repos\Chat\Chat\Chat.ClientConsole\obj\Debug\Chat.ClientConsole.csprojResolveAssemblyReference.cache
 C:\Users\User\Source\Repos\Chat\Chat\Chat.ClientConsole\obj\Debug\Chat.ClientConsole.exe
 C:\Users\User\Source\Repos\Chat\Chat\Chat.ClientConsole\obj\Debug\Chat.ClientConsole.pdb
+D:\Data\GitHub\Chat\Chat\Chat.ClientConsole\bin\Debug\Chat.ClientConsole.exe.config
+D:\Data\GitHub\Chat\Chat\Chat.ClientConsole\bin\Debug\Chat.ClientConsole.exe
+D:\Data\GitHub\Chat\Chat\Chat.ClientConsole\bin\Debug\Chat.ClientConsole.pdb
+D:\Data\GitHub\Chat\Chat\Chat.ClientConsole\obj\Debug\Chat.ClientConsole.csprojResolveAssemblyReference.cache
+D:\Data\GitHub\Chat\Chat\Chat.ClientConsole\obj\Debug\Chat.ClientConsole.exe
+D:\Data\GitHub\Chat\Chat\Chat.ClientConsole\obj\Debug\Chat.ClientConsole.pdb
