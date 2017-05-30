@@ -8,3 +8,8 @@ D:\Data\GitHub\Chat\Chat\Chat.Core\bin\Debug\Chat.Core.pdb
 D:\Data\GitHub\Chat\Chat\Chat.Core\obj\Debug\Chat.Core.csprojResolveAssemblyReference.cache
 D:\Data\GitHub\Chat\Chat\Chat.Core\obj\Debug\Chat.Core.dll
 D:\Data\GitHub\Chat\Chat\Chat.Core\obj\Debug\Chat.Core.pdb
+C:\Users\User\Source\Repos1\Chat\Chat.Core\bin\Debug\Chat.Core.dll
+C:\Users\User\Source\Repos1\Chat\Chat.Core\bin\Debug\Chat.Core.pdb
+C:\Users\User\Source\Repos1\Chat\Chat.Core\obj\Debug\Chat.Core.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos1\Chat\Chat.Core\obj\Debug\Chat.Core.dll
+C:\Users\User\Source\Repos1\Chat\Chat.Core\obj\Debug\Chat.Core.pdb
