@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Net;
 
-namespace Chat.ClientConsole
+namespace Chat.ServerConsole
 {
     class Program
     {
@@ -16,8 +16,8 @@ namespace Chat.ClientConsole
         public void CreateConfig()
         {
             // пока задаэм значеня в ручну для порта й Ip
-            string IpAndPort = "192.168.0.1:7770";
-
+           string IpAndPort ="192.168.0.1:7770";
+                           
             try
             {
                 DirectoryInfo data = new DirectoryInfo("Configuration");
@@ -26,10 +26,9 @@ namespace Chat.ClientConsole
                 var sw = new StreamWriter(@"Configuration/server.conf");
                 sw.WriteLine(IpAndPort);
                 sw.Close();
-
+                
             }
-            catch (Exception exp)
-            {
+            catch (Exception exp) {
                 Console.WriteLine(exp);
             }
 
@@ -55,7 +54,7 @@ namespace Chat.ClientConsole
 
         static void Main(string[] args)
         {
-
+            
         }
     }
 }

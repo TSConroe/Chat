@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26228.9
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat.Core", "Chat.Core\Chat.Core.csproj", "{D2E5AD06-C7C2-4592-8CE9-4B9F7A43A49F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A056BAA6-A875-4E38-A952-B0072E71B255} = {A056BAA6-A875-4E38-A952-B0072E71B255}
+		{B0F75DC3-CEF0-4018-B9BF-252E7510A641} = {B0F75DC3-CEF0-4018-B9BF-252E7510A641}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat.ServerConsole", "Chat.ServerConsole\Chat.ServerConsole.csproj", "{B0F75DC3-CEF0-4018-B9BF-252E7510A641}"
 EndProject
